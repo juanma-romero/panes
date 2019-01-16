@@ -2522,6 +2522,9 @@ body {
 .cid-rfk7CcSREm .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rflM7orwVI {
+  background-image: url("../../../assets/images/mbr-1920x1440.jpg");
+}
 .cid-rfk7CcSREm .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -2918,4 +2921,31 @@ body {
 .cid-rfk7CcSREm .nav-link:hover,
 .cid-rfk7CcSREm .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rflLId95qn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #fa7268;
+}
+.cid-rflLId95qn .title {
+  margin-bottom: 2rem;
+}
+.cid-rflLId95qn .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rflLId95qn a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rflLId95qn a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rflLId95qn .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-rflLId95qn .input-group-btn {
+  display: block;
+  text-align: center;
 }
